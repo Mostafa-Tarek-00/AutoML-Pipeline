@@ -30,3 +30,17 @@ Here are a few screenshots of the AutoML-Pipeline GUI:
    ```bash
    git clone https://github.com/Mostafa-Tarek-00/AutoML-Pipeline.git
    ```
+
+2. Install the required libraries by running:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn PySimpleGUI xgboost
+   ```
+
+3. Run the `main.py` script to launch the AutoML-Pipeline GUI:
+   ```bash
+   python main.py
+   ```
+   
+4. Follow the interactive GUI prompts to preprocess data, select columns, choose the target column, and run the selected algorithm.
+
+
