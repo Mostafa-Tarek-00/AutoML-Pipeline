@@ -11,6 +11,12 @@ AutoML-Pipeline is a Python project that aims to simplify the process of buildin
 - Selection of various machine learning algorithms for the chosen task.
 - Model evaluation metrics displayed through a popup window.
 
+## Video Overview
+
+🎥 Watch this short video to see AutoML-Pipeline in action:
+
+[![AutoML-Pipeline Video](AutoML-Pipeline.mp4)]
+
 ## Getting Started
 
 1. Clone the repository:
