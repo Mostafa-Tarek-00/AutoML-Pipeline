@@ -11,19 +11,6 @@ AutoML-Pipeline is a Python project that aims to simplify the process of buildin
 - Selection of various machine learning algorithms for the chosen task.
 - Model evaluation metrics displayed through a popup window.
 
-## Screenshots
-
-Here are a few screenshots of the AutoML-Pipeline GUI:
-
-![Screenshot 1](File_Selection.png)
-*Fig. 1: Preprocessing data and selecting target column.*
-
-![Screenshot 2](Column_Selection.png)
-*Fig. 2: Choosing columns to drop and selecting problem type.*
-
-![Screenshot 3](screenshots/screenshot3.png)
-*Fig. 3: Selecting an algorithm and running the pipeline.*
-
 ## Getting Started
 
 1. Clone the repository:
