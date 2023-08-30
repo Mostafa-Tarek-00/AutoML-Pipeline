@@ -38,14 +38,14 @@ Here are a few screenshots of the AutoML-Pipeline GUI:
 
 3. Run the `main.py` script to launch the AutoML-Pipeline GUI:
    ```bash
-   python main.py
+   python AutoML-Pipeline.py
    ```
    
 4. Follow the interactive GUI prompts to preprocess data, select columns, choose the target column, and run the selected algorithm.
 
 ## Usage
 
-1. Launch the GUI by running the `main.py` script.
+1. Launch the GUI by running the `AutoML-Pipeline.py` script.
 2. Select a dataset file in CSV or Excel format.
 3. Preprocess the data by handling missing values and label encoding.
 4. Choose columns to drop if necessary.
