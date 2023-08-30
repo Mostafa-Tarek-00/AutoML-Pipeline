@@ -14,8 +14,8 @@ AutoML-Pipeline is a Python project that aims to simplify the process of buildin
 ## Video Overview
 
 🎥 Watch this short video to see AutoML-Pipeline in action:
-https://youtu.be/ZY9gGKUU_6k
-[![AutoML-Pipeline Video](https://img.youtube.com/vi/ZY9gGKUU_6k/0.jpg)](https://www.youtube.com/watch?v=ZY9gGKUU_6k)
+
+[![AutoML-Pipeline Video]([https://img.youtube.com/vi/ZY9gGKUU_6k/0.jpg](https://i.ytimg.com/an_webp/ZY9gGKUU_6k/mqdefault_6s.webp?du=3000&sqp=COmovqcG&rs=AOn4CLAJx6nQ1jv25uVbzVhfEq9ntEVfkw))](https://www.youtube.com/watch?v=ZY9gGKUU_6k)
 
 ## Getting Started
 
