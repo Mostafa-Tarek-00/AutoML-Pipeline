@@ -43,4 +43,24 @@ Here are a few screenshots of the AutoML-Pipeline GUI:
    
 4. Follow the interactive GUI prompts to preprocess data, select columns, choose the target column, and run the selected algorithm.
 
+## Usage
+
+1. Launch the GUI by running the `main.py` script.
+2. Select a dataset file in CSV or Excel format.
+3. Preprocess the data by handling missing values and label encoding.
+4. Choose columns to drop if necessary.
+5. Select the target column for your task.
+6. Choose between a classification or regression task.
+7. Select an algorithm from the available options.
+8. After running the algorithm, a popup window will display evaluation metrics.
+
+## Project Coming Updates
+
+- **First**: Introduced user-configurable parameters, including handling unbalanced data columns, improved data preprocessing, and enhanced visualization options.
+- **Second**: Introduced user-configurable parameters, including handling unbalanced data columns, improved data preprocessing, and enhanced visualization options. Users can now adjust model parameters and combine multiple models for better results.
+
+## Note
+
+- The project is intended for educational purposes and might require further refinement for production use.
+- The available algorithms and evaluation metrics can be extended based on your needs.
 
