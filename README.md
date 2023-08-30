@@ -15,10 +15,10 @@ AutoML-Pipeline is a Python project that aims to simplify the process of buildin
 
 Here are a few screenshots of the AutoML-Pipeline GUI:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](File_Selection.png)
 *Fig. 1: Preprocessing data and selecting target column.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Column_Selection.png)
 *Fig. 2: Choosing columns to drop and selecting problem type.*
 
 ![Screenshot 3](screenshots/screenshot3.png)
